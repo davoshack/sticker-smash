@@ -1,0 +1,2 @@
+# sticker-smash
+Expo Project
